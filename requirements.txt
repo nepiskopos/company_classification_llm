@@ -1,0 +1,9 @@
+transformers[torch]==4.42.4
+torch @ https://download.pytorch.org/whl/cpu-cxx11-abi/torch-2.3.1%2Bcpu.cxx11.abi-cp310-cp310-linux_x86_64.whl
+evaluate
+nltk
+pandas
+scikit-learn
+scikit-learn-intelex
+seaborn
+jupyterlab
