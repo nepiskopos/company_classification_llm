@@ -1,2 +1,10 @@
-# company_classification_llm
-Simple data pipeline from a SQLite database to a LLM classifier for categorizing companies.
+# Company Classification using LLMs
+Data pipeline which includes:
+* Database querying to retrieve data
+* Data manipulation
+* Database update
+* Exploratory data analysis
+* Data preprocessing
+* Machine learning LLM model fine tuning
+* Machine learning LLM model evaluation
+* Reporting
